@@ -13,6 +13,6 @@ An app that launches the native AI Key (Red key) rebind ui, and lets you bind ap
 
 ### Tested Devices
 
-| Tested           | State |
+| Device           | State |
 |------------------|---------|
 | Motorola Edge 70 | Working |
