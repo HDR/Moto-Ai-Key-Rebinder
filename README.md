@@ -1,5 +1,5 @@
 # Moto-Ai-Key-Rebinder
-An app that launches the native AI Key (Red key) rebind ui, and lets you bind apps and features to Single Press & Long Press actions.
+An app that launches the native AI Key (Red key) rebind ui, and lets you bind apps and features to Single Press, Double Press & Long Press actions.
 
 
 ## Building:
@@ -13,6 +13,6 @@ An app that launches the native AI Key (Red key) rebind ui, and lets you bind ap
 
 ### Tested Devices
 
-| Device           | State |
-|------------------|---------|
-| Motorola Edge 70 | Working |
+| Tested           | Working | Note                             |
+|------------------|---------|----------------------------------|
+| Motorola Edge 70 | Working | Only single press can be rebound |
